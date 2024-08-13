@@ -12,4 +12,4 @@ This project explores the application of linear algebra techniques, specifically
 - Dimensionality reduction using PCA for enhanced model interpretability.
 - Visualization of data and results through scatter plots, heatmaps, and bar charts.
 
-[View Project Repository](https://github.com/MohammedISMAILI/boston-housing-linear-algebra)
+[View Project Repository](https://github.com/MohammedISMAILI/portfolio-projects/tree/main/boston-housing-linear-algebra)
